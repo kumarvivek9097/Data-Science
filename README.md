@@ -1,2 +1,2 @@
 # data_science
-Data analysis of several data sets using python and jupyter notebook.
+These all are various projects done by me. 
