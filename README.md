@@ -1,2 +1,3 @@
-# data_science
-These all are various projects done by me. 
+# Data Science
+
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and Python Scripts.
